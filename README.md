@@ -18,7 +18,7 @@
   + JavaScript
   
   ## 💻 Projeto
-  O <strong>countdown timer</strong> uma página de <strong>coming soon</strong> para o lançamento de um site, produto ou serviço.
+  O <strong>countdown timer</strong> é uma página de <strong>coming soon</strong> para o lançamento de um site, produto ou serviço.
   
   ## 📝 Licença
   Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/Countdown/blob/main/LICENSE">LICENSE</a> para mais detalhes.
